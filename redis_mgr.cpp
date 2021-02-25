@@ -1,6 +1,6 @@
 #include <iostream>
 #include "redis_mgr.h"
-#include "../cross_platform_utils/cross_platform_utils.h"
+#include "cross_platform_utils.h"
 
 using namespace std;
 
