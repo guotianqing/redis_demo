@@ -6,3 +6,5 @@ cppredis_test
 hiredis_test
 read_redis_to_csv
 .ssh
+.vscode/
+redis_timeusage
